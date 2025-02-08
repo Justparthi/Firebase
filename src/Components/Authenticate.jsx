@@ -43,7 +43,6 @@ const Authenticate = () => {
 
   return (
     <div>
-      Authenticate Components
         <input 
         placeholder='email..........'
         onChange={(e) => setEmail(e.target.value)}
